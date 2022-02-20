@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Telegram Ui X</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">#00FD19</item>
+
+        <!-- inactive thumb color -->
+        <item name="colorSwitchThumbNormal">#FFFFFF</item>
+
+        <!-- inactive track color (30% transparency) -->
+        <item name="android:colorForeground">#42FF0303</item>
+        <item name="android:colorBackground">#00090C</item>
+    </style>
+</resources>
